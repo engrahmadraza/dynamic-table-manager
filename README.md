@@ -41,7 +41,7 @@ dynamic-table-manager/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/dynamic-table-manager.git
+   git clone https://github.com/engrahmadraza/dynamic-table-manager.git
    ```
 2. Open the folder in VS Code.
 3. Run the project with the **Live Server** extension, or open `index.html` directly in a browser.
@@ -60,4 +60,4 @@ Add a license here (for example, MIT).
 
 ## Author
 
-**Your Name** · [GitHub](https://github.com/<engrahmadraza>)
+**Your Name** · [GitHub](https://github.com/engrahmadraza)
